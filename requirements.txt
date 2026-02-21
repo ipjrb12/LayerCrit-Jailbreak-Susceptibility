@@ -1,0 +1,7 @@
+torch>=2.0
+transformer-lens>=1.5
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
