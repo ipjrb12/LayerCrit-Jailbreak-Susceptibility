@@ -1,4 +1,5 @@
 # LayerCrit: Mechanistic Jailbreak Susceptibility Metric
+BlueDot Impact Technical AI Safety Research Project
 
 **LayerCrit** measures multi-turn jailbreak vulnerability by tracking internal policy trajectories **before generation**. Single  **JS score** reveals three failure modes across architectures.
 
